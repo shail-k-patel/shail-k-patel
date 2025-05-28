@@ -1,4 +1,4 @@
-# 🧠 Shail K Patel - AI/ML Enthusiast  
+# Shail K Patel - AI/ML Enthusiast  
 
 Welcome to my **alternate GitHub**! 🎉 If you're looking for my main hub of projects and experiments, head over here: [ShailKPatel's Main GitHub](https://github.com/ShailKPatel).  
 
